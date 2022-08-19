@@ -1,64 +1,46 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Final Project Oprec MCI 2022
+  
+## Zaragram
+Zaragram adalah clone dari web aplikasi Instagram. Tujuan dari pembuatan aplikasi ini adalah untuk menyediakan medium bagi para penggunanya untuk saling mengikuti (follow), berbagi post dalam bentuk gambar, menyukai (like) post yang digemari dan memberikan komentar terhadap post yang ada.
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Fitur Aplikasi
+List fitur pada aplikasi ini adalah sebagai berikut.
+1. Authentification
+   1. Login & Register System
+   2. Forgot Password System
+   3. Remember Me
+2. Authorification
+   Penggunaan middleware dalam melakukan berbagai CRUD.
+3. Profile
+   User akan memiliki profile yang berisi profile image, title, description dan url yang bisa diubah.
+4. Post
+   User dapat mengupload post berupa gambar ke dalam aplikasi, mengeditnya dan menghapusnya.
+5. Like System
+   User dapat memberikan like kepada postingan yang disukai dan juga mencabut like yang diberikan.
+![image](https://user-images.githubusercontent.com/34309557/185557695-e39c3894-1d6f-4725-8064-78920ba51aa6.png)6. Follow System
+   User dapat melakukan follow kepada user lain dan suatu user dapat di-follow oleh user lain. Apabila suatu user melakukan follow kepada user lain, user yang memfollow akan dapat melihat post-post dari user yang difollow di home page.
+7. Comment System
+   User dapat memberikan komentar kepada post apapun dan pemilik komentar juga dapat menghapus komentarnya.
+8. Postman API
+   Orang yang dapat mengakses API Zaragram melalui Postman dapat melakukan CRUD untuk Post.
 
-## About Laravel
+## Tampilan Aplikasi
+### Fitur 1: Authentification
+![image](https://user-images.githubusercontent.com/34309557/185557781-abc92ce7-8f67-4e95-af2c-c16f48ee4f1e.png)
+![image](https://user-images.githubusercontent.com/34309557/185557866-bb25c310-eb0c-4b6e-b9f6-70b0bbef8b5a.png)
+![image](https://user-images.githubusercontent.com/34309557/185557956-fee0101b-fece-4228-8e49-854a50fbe624.png)
+![image](https://user-images.githubusercontent.com/34309557/185558053-2ddff12f-193b-4f35-90c9-d6b8af780292.png)
+![image](https://user-images.githubusercontent.com/34309557/185558306-9624e3e6-e0d4-4df7-9a6c-5dc5de643216.png)
+![image](https://user-images.githubusercontent.com/34309557/185558391-b35b1777-0c96-47b1-9600-c3426282d35f.png)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### Fitur 2: Authorification
+# Drowdown untuk postingan sendiri
+![image](https://user-images.githubusercontent.com/34309557/185559029-ae59fdb3-915c-4757-9071-71f233f582ab.png)
+# Dropdown untuk postingan user lain
+![image](https://user-images.githubusercontent.com/34309557/185558767-59fb70e0-68a2-4c43-a29f-e783c602c9e0.png)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+### Fitur 3: Profile
+![image](https://user-images.githubusercontent.com/34309557/185559179-3327cc69-fc91-41a7-871b-f528886bb7c5.png)
+![image](https://user-images.githubusercontent.com/34309557/185559294-84ce66e6-05d5-4eb7-8d34-6f0ba0103287.png)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### Fitur 4:
