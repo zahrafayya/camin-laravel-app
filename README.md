@@ -5,22 +5,30 @@ Zaragram adalah clone dari web aplikasi Instagram. Tujuan dari pembuatan aplikas
 
 ## Fitur Aplikasi
 List fitur pada aplikasi ini adalah sebagai berikut.
+
 1. Authentification
    1. Login & Register System
    2. Forgot Password System
    3. Remember Me
+  
 2. Authorification
    Penggunaan middleware dalam melakukan berbagai CRUD.
+   
 3. Profile
    User akan memiliki profile yang berisi profile image, title, description dan url yang bisa diubah.
+   
 4. Post
    User dapat mengupload post berupa gambar ke dalam aplikasi, mengeditnya dan menghapusnya.
+   
 5. Like System
    User dapat memberikan like kepada postingan yang disukai dan juga mencabut like yang diberikan.
-![image](https://user-images.githubusercontent.com/34309557/185557695-e39c3894-1d6f-4725-8064-78920ba51aa6.png)6. Follow System
+   
+6. Follow System
    User dapat melakukan follow kepada user lain dan suatu user dapat di-follow oleh user lain. Apabila suatu user melakukan follow kepada user lain, user yang memfollow akan dapat melihat post-post dari user yang difollow di home page.
+   
 7. Comment System
    User dapat memberikan komentar kepada post apapun dan pemilik komentar juga dapat menghapus komentarnya.
+   
 8. Postman API
    Orang yang dapat mengakses API Zaragram melalui Postman dapat melakukan CRUD untuk Post.
 
