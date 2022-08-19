@@ -27,17 +27,20 @@ List fitur pada aplikasi ini adalah sebagai berikut.
    
 4. Post
    * User dapat mengupload post berupa gambar ke dalam aplikasi, mengeditnya dan menghapusnya.
+
+5. Home Page
+   * Pada home page, user dapat melihat seluruh post yang pernah user tersebut buat serta post-post dari user-user yang di-follow
    
-5. Like System
+6. Like System
    * User dapat memberikan like kepada postingan yang disukai dan juga mencabut like yang diberikan.
    
-6. Follow System
+7. Follow System
    * User dapat melakukan follow kepada user lain dan suatu user dapat di-follow oleh user lain. Apabila suatu user melakukan follow kepada user lain, user yang memfollow akan dapat melihat post-post dari user yang difollow di home page.
    
-7. Comment System
+8. Comment System
    * User dapat memberikan komentar kepada post apapun dan pemilik komentar juga dapat menghapus komentarnya.
    
-8. Postman API
+9. Postman API
    * Orang yang dapat mengakses API Zaragram melalui Postman dapat melakukan CRUD untuk Post.
 
 ## Tampilan Aplikasi
@@ -65,21 +68,24 @@ List fitur pada aplikasi ini adalah sebagai berikut.
 ![image](https://user-images.githubusercontent.com/34309557/185561207-ae4c9bf4-a42c-4132-a81f-8bbb095749c3.png)
 ![image](https://user-images.githubusercontent.com/34309557/185577269-2e23a1a1-7bb7-4af9-be43-bb5632117916.png)
 
-### Fitur 5: Like System <br />
+### Fitur 5: Home Page
+![image](https://user-images.githubusercontent.com/34309557/185630605-ebe9b958-9e1e-4e01-8066-bb3082b1a674.png)
+
+### Fitur 6: Like System <br />
 ![image](https://user-images.githubusercontent.com/34309557/185570352-0554b694-27e8-4041-909d-3704dce5398b.png)
 ![image](https://user-images.githubusercontent.com/34309557/185575385-01234dc9-e46b-4e41-b6d5-50867dd6b0e1.png)
 
-### Fitur 6: Follow System <br />
+### Fitur 7: Follow System <br />
 ![image](https://user-images.githubusercontent.com/34309557/185570595-8c178f2e-4909-402b-83e7-49777ea80987.png)
 ![image](https://user-images.githubusercontent.com/34309557/185570708-1bdc4750-1038-403b-8088-a5355f7f9397.png)
 ![image](https://user-images.githubusercontent.com/34309557/185571069-e427243c-909c-4946-bb93-5d7ebafcfb97.png)
 ![image](https://user-images.githubusercontent.com/34309557/185571130-52b98fe7-aeea-4923-8d13-43f56d31f297.png)
 
-### Fitur 7: Comment System <br />
+### Fitur 8: Comment System <br />
 ![image](https://user-images.githubusercontent.com/34309557/185571570-dfd3d6f0-ef5a-43a7-8d22-50365360b9b7.png)
 ![image](https://user-images.githubusercontent.com/34309557/185571813-f96d5df1-6b57-4b89-b505-8e626a99856f.png)
 
-### Fitur 8: Postman API <br />
+### Fitur 9: Postman API <br />
 ![image](https://user-images.githubusercontent.com/34309557/185573388-209a1ff8-f497-4af1-9a8c-d85a6baae6dd.png)
 ![image](https://user-images.githubusercontent.com/34309557/185573524-743d2391-ce85-45df-9176-f99ee10c2307.png)
 ![image](https://user-images.githubusercontent.com/34309557/185573898-7a159d6b-f42a-44af-98db-55f9f13a657e.png)
