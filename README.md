@@ -5,7 +5,7 @@
 Zaragram adalah clone dari web aplikasi Instagram. Tujuan dari pembuatan aplikasi ini adalah untuk menyediakan medium bagi para penggunanya untuk saling mengikuti (follow), berbagi post dalam bentuk gambar, menyukai (like) post yang digemari dan memberikan komentar terhadap post yang ada.
 
 ## Link Deployment
-Zaragram dideploy menggunakan Microsoft Azure
+Zaragram dideploy menggunakan Microsoft Azure <br />
 https://zaragram.azurewebsites.net/
 
 ## Repositori Asli
