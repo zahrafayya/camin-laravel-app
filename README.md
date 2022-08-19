@@ -87,5 +87,5 @@ List fitur pada aplikasi ini adalah sebagai berikut.
 ![image](https://user-images.githubusercontent.com/34309557/185574846-48bbbade-cd6f-4435-9bbd-8cabb1cba700.png)
 
 ## Kendala
-* Kesulitan ketika mendeploy web app ke dalam Microsoft Azure
-
+* Kesulitan ketika mendeploy web app ke dalam Microsoft Azure.
+* Kesulitan ketika menggunakan JavaScript ke dalam aplikasi sehingga web app ini 100% dibuat menggunakan laravel.
