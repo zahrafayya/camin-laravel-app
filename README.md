@@ -1,7 +1,7 @@
 # Final Project Oprec MCI 2022
   
 ## Zaragram
-![image](https://user-images.githubusercontent.com/34309557/185559853-aea2bdd8-f201-42f0-aba4-95123441f508.png)__
+![image](https://user-images.githubusercontent.com/34309557/185559853-aea2bdd8-f201-42f0-aba4-95123441f508.png) <br />
 Zaragram adalah clone dari web aplikasi Instagram. Tujuan dari pembuatan aplikasi ini adalah untuk menyediakan medium bagi para penggunanya untuk saling mengikuti (follow), berbagi post dalam bentuk gambar, menyukai (like) post yang digemari dan memberikan komentar terhadap post yang ada.
 
 ## Fitur Aplikasi
@@ -34,7 +34,7 @@ List fitur pada aplikasi ini adalah sebagai berikut.
    * Orang yang dapat mengakses API Zaragram melalui Postman dapat melakukan CRUD untuk Post.
 
 ## Tampilan Aplikasi
-### Fitur 1: Authentification
+### Fitur 1: Authentification <br />
 ![image](https://user-images.githubusercontent.com/34309557/185557781-abc92ce7-8f67-4e95-af2c-c16f48ee4f1e.png)
 ![image](https://user-images.githubusercontent.com/34309557/185557866-bb25c310-eb0c-4b6e-b9f6-70b0bbef8b5a.png)
 ![image](https://user-images.githubusercontent.com/34309557/185557956-fee0101b-fece-4228-8e49-854a50fbe624.png)
@@ -42,14 +42,20 @@ List fitur pada aplikasi ini adalah sebagai berikut.
 ![image](https://user-images.githubusercontent.com/34309557/185558306-9624e3e6-e0d4-4df7-9a6c-5dc5de643216.png)
 ![image](https://user-images.githubusercontent.com/34309557/185558391-b35b1777-0c96-47b1-9600-c3426282d35f.png)
 
-### Fitur 2: Authorification
-# Drowdown untuk postingan sendiri
+### Fitur 2: Authorification <br />
+#### Drowdown untuk postingan sendiri <br />
 ![image](https://user-images.githubusercontent.com/34309557/185559029-ae59fdb3-915c-4757-9071-71f233f582ab.png)
-# Dropdown untuk postingan user lain
+#### Dropdown untuk postingan user lain <br />
 ![image](https://user-images.githubusercontent.com/34309557/185558767-59fb70e0-68a2-4c43-a29f-e783c602c9e0.png)
 
-### Fitur 3: Profile
+### Fitur 3: Profile <br />
 ![image](https://user-images.githubusercontent.com/34309557/185559179-3327cc69-fc91-41a7-871b-f528886bb7c5.png)
 ![image](https://user-images.githubusercontent.com/34309557/185559294-84ce66e6-05d5-4eb7-8d34-6f0ba0103287.png)
 
-### Fitur 4:
+### Fitur 4: Post <br />
+![image](https://user-images.githubusercontent.com/34309557/185560741-c9efd571-a808-43b1-a8a1-2d5d3166a0da.png)
+![image](https://user-images.githubusercontent.com/34309557/185561112-b63520f8-b3a0-41b3-94f4-b4c761c6addf.png)
+![image](https://user-images.githubusercontent.com/34309557/185561207-ae4c9bf4-a42c-4132-a81f-8bbb095749c3.png)
+
+### Fitur 5: Like System <br />
+
