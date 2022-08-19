@@ -5,7 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Post extends Model
+class Comment extends Model
 {
     protected $guarded = [];
 
@@ -14,13 +14,8 @@ class Post extends Model
         return $this->belongsTo(User::class);
     }
 
-    public function comments()
+    public function post()
     {
-        return $this->hasMany(Comment::class)->orderBy('created_at', 'ASC');
-    }
-
-    public function liked()
-    {
-        return $this->belongsToMany(User::class);
+        return $this->belongsTo(Post::class);
     }
 }

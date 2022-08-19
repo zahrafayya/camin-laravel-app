@@ -17,7 +17,7 @@
                     <div class="col-6 p-0">
                         <img src="{{ $user->profile->profileImage() }}" class="w-100">
                     </div>
-                </div>      
+                </div>
                 <input type="file" class="form-control" id="image" name="image">
 
                 @error('image')
