@@ -1,6 +1,7 @@
 # Final Project Oprec MCI 2022
   
 ## Zaragram
+![image](https://user-images.githubusercontent.com/34309557/185559853-aea2bdd8-f201-42f0-aba4-95123441f508.png)
 Zaragram adalah clone dari web aplikasi Instagram. Tujuan dari pembuatan aplikasi ini adalah untuk menyediakan medium bagi para penggunanya untuk saling mengikuti (follow), berbagi post dalam bentuk gambar, menyukai (like) post yang digemari dan memberikan komentar terhadap post yang ada.
 
 ## Fitur Aplikasi
@@ -12,25 +13,25 @@ List fitur pada aplikasi ini adalah sebagai berikut.
    3. Remember Me
   
 2. Authorification
-   Penggunaan middleware dalam melakukan berbagai CRUD.
+   * Penggunaan middleware dalam melakukan berbagai CRUD.
    
 3. Profile
-   User akan memiliki profile yang berisi profile image, title, description dan url yang bisa diubah.
+   * User akan memiliki profile yang berisi profile image, title, description dan url yang bisa diubah.
    
 4. Post
-   User dapat mengupload post berupa gambar ke dalam aplikasi, mengeditnya dan menghapusnya.
+   * User dapat mengupload post berupa gambar ke dalam aplikasi, mengeditnya dan menghapusnya.
    
 5. Like System
-   User dapat memberikan like kepada postingan yang disukai dan juga mencabut like yang diberikan.
+   * User dapat memberikan like kepada postingan yang disukai dan juga mencabut like yang diberikan.
    
 6. Follow System
-   User dapat melakukan follow kepada user lain dan suatu user dapat di-follow oleh user lain. Apabila suatu user melakukan follow kepada user lain, user yang memfollow akan dapat melihat post-post dari user yang difollow di home page.
+   * User dapat melakukan follow kepada user lain dan suatu user dapat di-follow oleh user lain. Apabila suatu user melakukan follow kepada user lain, user yang memfollow akan dapat melihat post-post dari user yang difollow di home page.
    
 7. Comment System
-   User dapat memberikan komentar kepada post apapun dan pemilik komentar juga dapat menghapus komentarnya.
+   * User dapat memberikan komentar kepada post apapun dan pemilik komentar juga dapat menghapus komentarnya.
    
 8. Postman API
-   Orang yang dapat mengakses API Zaragram melalui Postman dapat melakukan CRUD untuk Post.
+   * Orang yang dapat mengakses API Zaragram melalui Postman dapat melakukan CRUD untuk Post.
 
 ## Tampilan Aplikasi
 ### Fitur 1: Authentification
