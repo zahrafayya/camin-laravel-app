@@ -62,7 +62,7 @@ List fitur pada aplikasi ini adalah sebagai berikut.
 
 ### Fitur 5: Like System <br />
 ![image](https://user-images.githubusercontent.com/34309557/185570352-0554b694-27e8-4041-909d-3704dce5398b.png)
-![image](https://user-images.githubusercontent.com/34309557/185575155-27d9ff60-ce3f-47e1-89ff-726dce47dd3a.png)
+![image](https://user-images.githubusercontent.com/34309557/185575385-01234dc9-e46b-4e41-b6d5-50867dd6b0e1.png)
 
 ### Fitur 6: Follow System <br />
 ![image](https://user-images.githubusercontent.com/34309557/185570595-8c178f2e-4909-402b-83e7-49777ea80987.png)
