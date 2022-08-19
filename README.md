@@ -63,6 +63,7 @@ List fitur pada aplikasi ini adalah sebagai berikut.
 ![image](https://user-images.githubusercontent.com/34309557/185560741-c9efd571-a808-43b1-a8a1-2d5d3166a0da.png)
 ![image](https://user-images.githubusercontent.com/34309557/185561112-b63520f8-b3a0-41b3-94f4-b4c761c6addf.png)
 ![image](https://user-images.githubusercontent.com/34309557/185561207-ae4c9bf4-a42c-4132-a81f-8bbb095749c3.png)
+![image](https://user-images.githubusercontent.com/34309557/185577269-2e23a1a1-7bb7-4af9-be43-bb5632117916.png)
 
 ### Fitur 5: Like System <br />
 ![image](https://user-images.githubusercontent.com/34309557/185570352-0554b694-27e8-4041-909d-3704dce5398b.png)
