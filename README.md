@@ -4,6 +4,9 @@
 ![image](https://user-images.githubusercontent.com/34309557/185559853-aea2bdd8-f201-42f0-aba4-95123441f508.png) <br />
 Zaragram adalah clone dari web aplikasi Instagram. Tujuan dari pembuatan aplikasi ini adalah untuk menyediakan medium bagi para penggunanya untuk saling mengikuti (follow), berbagi post dalam bentuk gambar, menyukai (like) post yang digemari dan memberikan komentar terhadap post yang ada.
 
+## Repositori Asli
+https://github.com/zahrafayya/Zaragram
+
 ## Fitur Aplikasi
 List fitur pada aplikasi ini adalah sebagai berikut.
 
@@ -58,4 +61,23 @@ List fitur pada aplikasi ini adalah sebagai berikut.
 ![image](https://user-images.githubusercontent.com/34309557/185561207-ae4c9bf4-a42c-4132-a81f-8bbb095749c3.png)
 
 ### Fitur 5: Like System <br />
+![image](https://user-images.githubusercontent.com/34309557/185570352-0554b694-27e8-4041-909d-3704dce5398b.png)
+
+### Fitur 6: Follow System <br />
+![image](https://user-images.githubusercontent.com/34309557/185570595-8c178f2e-4909-402b-83e7-49777ea80987.png)
+![image](https://user-images.githubusercontent.com/34309557/185570708-1bdc4750-1038-403b-8088-a5355f7f9397.png)
+![image](https://user-images.githubusercontent.com/34309557/185571069-e427243c-909c-4946-bb93-5d7ebafcfb97.png)
+![image](https://user-images.githubusercontent.com/34309557/185571130-52b98fe7-aeea-4923-8d13-43f56d31f297.png)
+
+### Fitur 7: Comment System <br />
+![image](https://user-images.githubusercontent.com/34309557/185571570-dfd3d6f0-ef5a-43a7-8d22-50365360b9b7.png)
+![image](https://user-images.githubusercontent.com/34309557/185571813-f96d5df1-6b57-4b89-b505-8e626a99856f.png)
+
+### Fitur 8: Postman API <br />
+![image](https://user-images.githubusercontent.com/34309557/185573388-209a1ff8-f497-4af1-9a8c-d85a6baae6dd.png)
+![image](https://user-images.githubusercontent.com/34309557/185573524-743d2391-ce85-45df-9176-f99ee10c2307.png)
+![image](https://user-images.githubusercontent.com/34309557/185573898-7a159d6b-f42a-44af-98db-55f9f13a657e.png)
+![image](https://user-images.githubusercontent.com/34309557/185574038-45eb4c9a-e6a0-4f9c-a32c-28e39e3f53bf.png)
+![image](https://user-images.githubusercontent.com/34309557/185574752-3cb66e1f-47d6-40d0-b987-6f9570522462.png)
+![image](https://user-images.githubusercontent.com/34309557/185574846-48bbbade-cd6f-4435-9bbd-8cabb1cba700.png)
 
