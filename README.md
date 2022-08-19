@@ -4,6 +4,10 @@
 ![image](https://user-images.githubusercontent.com/34309557/185559853-aea2bdd8-f201-42f0-aba4-95123441f508.png) <br />
 Zaragram adalah clone dari web aplikasi Instagram. Tujuan dari pembuatan aplikasi ini adalah untuk menyediakan medium bagi para penggunanya untuk saling mengikuti (follow), berbagi post dalam bentuk gambar, menyukai (like) post yang digemari dan memberikan komentar terhadap post yang ada.
 
+## Link Deployment
+Zaragram dideploy menggunakan Microsoft Azure
+https://zaragram.azurewebsites.net/
+
 ## Repositori Asli
 https://github.com/zahrafayya/Zaragram
 
@@ -81,4 +85,7 @@ List fitur pada aplikasi ini adalah sebagai berikut.
 ![image](https://user-images.githubusercontent.com/34309557/185574038-45eb4c9a-e6a0-4f9c-a32c-28e39e3f53bf.png)
 ![image](https://user-images.githubusercontent.com/34309557/185574752-3cb66e1f-47d6-40d0-b987-6f9570522462.png)
 ![image](https://user-images.githubusercontent.com/34309557/185574846-48bbbade-cd6f-4435-9bbd-8cabb1cba700.png)
+
+## Kendala
+* Kesulitan ketika mendeploy web app ke dalam Microsoft Azure
 
