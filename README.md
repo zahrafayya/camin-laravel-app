@@ -1,7 +1,7 @@
 # Final Project Oprec MCI 2022
   
 ## Zaragram
-![image](https://user-images.githubusercontent.com/34309557/185559853-aea2bdd8-f201-42f0-aba4-95123441f508.png)
+![image](https://user-images.githubusercontent.com/34309557/185559853-aea2bdd8-f201-42f0-aba4-95123441f508.png)__
 Zaragram adalah clone dari web aplikasi Instagram. Tujuan dari pembuatan aplikasi ini adalah untuk menyediakan medium bagi para penggunanya untuk saling mengikuti (follow), berbagi post dalam bentuk gambar, menyukai (like) post yang digemari dan memberikan komentar terhadap post yang ada.
 
 ## Fitur Aplikasi
@@ -13,7 +13,7 @@ List fitur pada aplikasi ini adalah sebagai berikut.
    3. Remember Me
   
 2. Authorification
-   * Penggunaan middleware dalam melakukan berbagai CRUD.
+   * Penggunaan middleware dalam melakukan berbagai operasi CRUD.
    
 3. Profile
    * User akan memiliki profile yang berisi profile image, title, description dan url yang bisa diubah.
